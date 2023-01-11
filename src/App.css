@@ -1,38 +1,150 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.loading {
+  color: black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.home-container {
+  background-color: #fa5091;
+  overflow-x: hidden;
+  width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.nav-status {
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
+  background-color: #dc4781;
+  padding: 10px 5px;
+  font-weight: 800;
+}
+
+.nav-left {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.nav-right {
+  display: flex;
+  gap: 15px;
+}
+
+.statusIcon {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.head {
+  width: 100%;
+  height: 35vh;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.head img {
+  width: 50%;
+  height: 100%;
+  object-fit: unset;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.title-bar {
+  background-color: #dc4075;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 5px 10px;
+}
+
+.countriesList {
+  display: flex;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.countryItem {
+  background-color: #dc4781;
+  width: 50%;
+  position: relative;
+  padding: 15px;
+  cursor: pointer;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.countryItem:nth-child(4n + 2),
+.countryItem:nth-child(4n + 3) {
+  background-color: #d14479;
+}
+
+.icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 30px;
+}
+
+.imageContainer {
+  width: 60%;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.imageContainer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.infos {
+  text-align: end;
+  margin-top: 10px;
+}
+
+.infos p {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.infos strong {
+  font-size: 1rem;
+}
+
+.countrydetails {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 20px;
+  cursor: pointer;
+}
+
+.countrydetails:nth-child(2n + 2) {
+  background-color: #ea4a88;
+}
+
+.countrydetails h3 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.iconDetail {
+  position: unset;
+}
+
+.detailsInfo {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 1rem;
+  font-weight: 500;
 }
