@@ -1,0 +1,526 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details component should render the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="home-container"
+      >
+        <div
+          class="nav-status"
+        >
+          <div
+            class="nav-left"
+            role="button"
+            tabindex="0"
+          >
+            <svg
+              class="statusIcon"
+              fill="none"
+              height="1em"
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <polyline
+                points="15 18 9 12 15 6"
+              />
+            </svg>
+          </div>
+          <div
+            class="nav-title"
+          >
+            Year populations
+          </div>
+          <div
+            class="nav-right"
+          >
+            <svg
+              class="statusIcon"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M16 12V6c0-2.217-1.785-4.021-3.979-4.021a.933.933 0 0 0-.209.025A4.006 4.006 0 0 0 8 6v6c0 2.206 1.794 4 4 4s4-1.794 4-4zm-6 0V6c0-1.103.897-2 2-2a.89.89 0 0 0 .163-.015C13.188 4.06 14 4.935 14 6v6c0 1.103-.897 2-2 2s-2-.897-2-2z"
+              />
+              <path
+                d="M6 12H4c0 4.072 3.061 7.436 7 7.931V22h2v-2.069c3.939-.495 7-3.858 7-7.931h-2c0 3.309-2.691 6-6 6s-6-2.691-6-6z"
+              />
+            </svg>
+            <svg
+              class="statusIcon"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 16 16"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M8.932.727c-.243-.97-1.62-.97-1.864 0l-.071.286a.96.96 0 0 1-1.622.434l-.205-.211c-.695-.719-1.888-.03-1.613.931l.08.284a.96.96 0 0 1-1.186 1.187l-.284-.081c-.96-.275-1.65.918-.931 1.613l.211.205a.96.96 0 0 1-.434 1.622l-.286.071c-.97.243-.97 1.62 0 1.864l.286.071a.96.96 0 0 1 .434 1.622l-.211.205c-.719.695-.03 1.888.931 1.613l.284-.08a.96.96 0 0 1 1.187 1.187l-.081.283c-.275.96.918 1.65 1.613.931l.205-.211a.96.96 0 0 1 1.622.434l.071.286c.243.97 1.62.97 1.864 0l.071-.286a.96.96 0 0 1 1.622-.434l.205.211c.695.719 1.888.03 1.613-.931l-.08-.284a.96.96 0 0 1 1.187-1.187l.283.081c.96.275 1.65-.918.931-1.613l-.211-.205a.96.96 0 0 1 .434-1.622l.286-.071c.97-.243.97-1.62 0-1.864l-.286-.071a.96.96 0 0 1-.434-1.622l.211-.205c.719-.695.03-1.888-.931-1.613l-.284.08a.96.96 0 0 1-1.187-1.186l.081-.284c.275-.96-.918-1.65-1.613-.931l-.205.211a.96.96 0 0 1-1.622-.434L8.932.727zM8 12.997a4.998 4.998 0 1 1 0-9.995 4.998 4.998 0 0 1 0 9.996z"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="head"
+        >
+          <img
+            alt="Africa"
+          />
+          <div
+            class="infos"
+          >
+            <p />
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="title-bar title-metrics"
+        >
+          YEAR BREAKDOWN - 2022
+        </div>
+        <div
+          class="countriesList"
+        >
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              2022
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              2020
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              2015
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              2010
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              2000
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              1990
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              1980
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+          <div
+            class="countrydetails"
+          >
+            <h3
+              class="year"
+            >
+              1970
+            </h3>
+            <div
+              class="detailsInfo"
+            >
+              <strong>
+                 
+                inhabitants
+              </strong>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="home-container"
+    >
+      <div
+        class="nav-status"
+      >
+        <div
+          class="nav-left"
+          role="button"
+          tabindex="0"
+        >
+          <svg
+            class="statusIcon"
+            fill="none"
+            height="1em"
+            stroke="currentColor"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <polyline
+              points="15 18 9 12 15 6"
+            />
+          </svg>
+        </div>
+        <div
+          class="nav-title"
+        >
+          Year populations
+        </div>
+        <div
+          class="nav-right"
+        >
+          <svg
+            class="statusIcon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 24 24"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M16 12V6c0-2.217-1.785-4.021-3.979-4.021a.933.933 0 0 0-.209.025A4.006 4.006 0 0 0 8 6v6c0 2.206 1.794 4 4 4s4-1.794 4-4zm-6 0V6c0-1.103.897-2 2-2a.89.89 0 0 0 .163-.015C13.188 4.06 14 4.935 14 6v6c0 1.103-.897 2-2 2s-2-.897-2-2z"
+            />
+            <path
+              d="M6 12H4c0 4.072 3.061 7.436 7 7.931V22h2v-2.069c3.939-.495 7-3.858 7-7.931h-2c0 3.309-2.691 6-6 6s-6-2.691-6-6z"
+            />
+          </svg>
+          <svg
+            class="statusIcon"
+            fill="currentColor"
+            height="1em"
+            stroke="currentColor"
+            stroke-width="0"
+            viewBox="0 0 16 16"
+            width="1em"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M8.932.727c-.243-.97-1.62-.97-1.864 0l-.071.286a.96.96 0 0 1-1.622.434l-.205-.211c-.695-.719-1.888-.03-1.613.931l.08.284a.96.96 0 0 1-1.186 1.187l-.284-.081c-.96-.275-1.65.918-.931 1.613l.211.205a.96.96 0 0 1-.434 1.622l-.286.071c-.97.243-.97 1.62 0 1.864l.286.071a.96.96 0 0 1 .434 1.622l-.211.205c-.719.695-.03 1.888.931 1.613l.284-.08a.96.96 0 0 1 1.187 1.187l-.081.283c-.275.96.918 1.65 1.613.931l.205-.211a.96.96 0 0 1 1.622.434l.071.286c.243.97 1.62.97 1.864 0l.071-.286a.96.96 0 0 1 1.622-.434l.205.211c.695.719 1.888.03 1.613-.931l-.08-.284a.96.96 0 0 1 1.187-1.187l.283.081c.96.275 1.65-.918.931-1.613l-.211-.205a.96.96 0 0 1 .434-1.622l.286-.071c.97-.243.97-1.62 0-1.864l-.286-.071a.96.96 0 0 1-.434-1.622l.211-.205c.719-.695.03-1.888-.931-1.613l-.284.08a.96.96 0 0 1-1.187-1.186l.081-.284c.275-.96-.918-1.65-1.613-.931l-.205.211a.96.96 0 0 1-1.622-.434L8.932.727zM8 12.997a4.998 4.998 0 1 1 0-9.995 4.998 4.998 0 0 1 0 9.996z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="head"
+      >
+        <img
+          alt="Africa"
+        />
+        <div
+          class="infos"
+        >
+          <p />
+          <strong>
+             
+            inhabitants
+          </strong>
+        </div>
+      </div>
+      <div
+        class="title-bar title-metrics"
+      >
+        YEAR BREAKDOWN - 2022
+      </div>
+      <div
+        class="countriesList"
+      >
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            2022
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            2020
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            2015
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            2010
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            2000
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            1990
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            1980
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+        <div
+          class="countrydetails"
+        >
+          <h3
+            class="year"
+          >
+            1970
+          </h3>
+          <div
+            class="detailsInfo"
+          >
+            <strong>
+               
+              inhabitants
+            </strong>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
