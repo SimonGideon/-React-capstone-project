@@ -9,10 +9,9 @@ const baseUrl = 'https://world-population3.p.rapidapi.com/continents/Africa?rank
 
 const options = {
   method: 'GET',
-  headers: {
-    'X-RapidAPI-Key': '444f992462msh14df91836ca4084p100bffjsn8d1ddeecae90',
-    'X-RapidAPI-Host': 'world-population3.p.rapidapi.com',
-  },
+  headers: (
+    'X-RapidAPI-Key', '444f992462msh14df91836ca4084p100bffjsn8d1ddeecae90',
+    'X-RapidAPI-Host', 'world-population3.p.rapidapi.com'),
 };
 
 export const fetchCountries = createAsyncThunk(
