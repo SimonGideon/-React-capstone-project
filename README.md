@@ -105,7 +105,7 @@ After you're finished please remove all the comments and instructions!
 > Add a link to your deployed project.
 
 - [Live Demo Link](https://metric-app.onrender.com/)
-- [Live Video]()
+- [Live Video](https://www.loom.com/share/7973efccb7e5408ea86703bf35d7623a)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
